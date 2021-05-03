@@ -2,7 +2,7 @@ const themeConfig = require('./config/theme/')
 
 module.exports = {
   title: "wonderful",
-  description: 'Enjoy when you can, and endure when you must.',
+  description: 'Try your best and have no regrets!',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],

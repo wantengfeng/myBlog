@@ -1,10 +1,10 @@
 {
-  "name": "afternoon-grocery-store",
+  "name": "my-blog",
   "version": "1.0.0",
-  "description": "recoluan's blog",
+  "description": "wantengfeng's blog",
   "main": "index.js",
-  "repository": "http://recoluan.gitlab.io",
-  "author": "reco_luan",
+  "repository": "http://wantengfeng.gitlab.io",
+  "author": "wantengfeng",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,10 +12,10 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "vuepress": "1.0.3",
-    "vuepress-theme-reco": "1.0.8-alpha.3",
-    "@vuepress/plugin-medium-zoom": "1.0.0-alpha.0",
+    "vuepress": "1.8.2",
+    "vuepress-theme-reco": "1.6.6",
+    "@vuepress/plugin-medium-zoom": "1.8.2",
     "vuepress-plugin-flowchart": "1.4.3",
-    "@vuepress/plugin-pwa": "1.0.0-alpha.3"
+    "@vuepress/plugin-pwa": "1.8.2"
   }
 }

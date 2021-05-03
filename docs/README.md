@@ -1,8 +1,7 @@
 ---
 home: true
-bgImage: '/banner.jpg'
+bgImage: '/banner.jpeg'
 bgImageStyle: {
   height: '450px'
 }
-faceImage: '/head.png'
 ---
