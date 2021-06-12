@@ -2,7 +2,6 @@
 title: 搭建个人博客
 tags:
  - vuePress
- - blog
 categories:
  - 前端
 date: 2021-5-3
@@ -26,7 +25,7 @@ sidebar: false
 ***
 
 
-#### 参看文档
+#### 参考文档
 1. [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/) 一款简介的vuepress博客主题
 2. [vuepress](https://vuepress.vuejs.org/zh/) vue驱动的静态生成器
 

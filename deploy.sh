@@ -10,7 +10,7 @@ yarn build
 cd public
 
 # 如果是发布到自定义域名
-# echo 'www.example.com' > CNAME
+echo 'www.wantengfeng.com' > CNAME
 
 # git init
 git init

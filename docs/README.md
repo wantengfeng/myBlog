@@ -1,7 +1,7 @@
 ---
 home: true
-bgImage: '/banner.jpeg'
+bgImage: '/banner.svg'
 bgImageStyle: {
-  height: '450px'
+  height: '700px'
 }
 ---

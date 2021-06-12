@@ -16,7 +16,8 @@ module.exports = {
   // 作者
   author: 'wantengfeng',
   // 备案号
-  record: 'none',
+  record: '冀ICP备2021012961号-1',
+  recordLink: 'https://beian.miit.gov.cn/',
   // 项目开始时间
   startYear: '2021'
 }
