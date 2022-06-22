@@ -12,4 +12,9 @@ module.exports = Object.assign({}, themeReco, {
   searchMaxSuggestions: 10,
   // 自动形成侧边导航
   sidebar: 'auto',
+  // 添加评论
+  valineConfig: {
+    appId: 'vQ1OnCVXDe7rpBfTzs86utGq-gzGzoHsz',
+    appKey: 'z4ScBiUUrNIqcnFhSr5HnY4B'
+  }
 })
