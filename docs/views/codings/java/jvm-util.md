@@ -24,9 +24,9 @@ ps | jps
 // 获取进程pid
 top -Hp pid
 // 获取线程tid
-printf '%x\n' tid
-// 获取tid十六进制
-jstack pid | grep -B 10 -A 10 tid-hex
-// 获取线程tid栈信息（前后十行）
+printf '%x\n' nid
+// 获取nid十六进制
+jstack pid | grep -B 10 -A 10 nid-hex
+// 获取线程nid栈信息（前后十行）
 ```
 
